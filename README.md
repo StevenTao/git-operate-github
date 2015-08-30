@@ -8,8 +8,8 @@ gitbook editor使用：http://tao.logdown.com/posts/243192-use-gitbook-to-write-
 leeluoleeGitBook, Git + Markdown 快速发布你的书籍：http://leeluolee.github.io/2014/07/22/2014-07-22-gitbook-guide/ <br />
 <br />
 
-gitbook notecomplate访问路径：http://taoyingsong.gitbooks.io/notecomplete/content/
-gitbook查看历史所有版本：https://www.gitbook.com/book/taoyingsong/notecomplete/activity
+gitbook notecomplate访问路径：http://taoyingsong.gitbooks.io/notecomplete/content/ <br />
+gitbook查看历史所有版本：https://www.gitbook.com/book/taoyingsong/notecomplete/activity <br />
 
 当提交信息为空时提交会被终止:<br />
 ```
